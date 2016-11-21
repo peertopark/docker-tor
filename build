@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo docker build -t peertopark/tor:1.0 .
